@@ -35,7 +35,7 @@
 
 ![8](https://github.com/faisalsaud63192/OpenCV_Real_Time_Face_Detection/blob/main/Images/8.png)
 
-![9](https://github.com/faisalsaud63192/OpenCV_Real_Time_Face_Detection/blob/main/Images/9.png)
+
 
 ![recognition](https://github.com/faisalsaud63192/OpenCV_Real_Time_Face_Detection/blob/main/Images/python-face-recognition.jpg)
 
